@@ -1,3 +1,5 @@
+> ⚠️ **This repository has been archived and ownership transfered to https://github.com/radiofrance/svelte-component-actions**
+
 # svelte-component-actions
 
 This package provides a [svelte action](https://svelte.dev/docs/svelte-action) that facilitates the use of actions and action parameters on components. It is based on what [svelte-material-ui](https://github.com/hperrin/svelte-material-ui) uses internaly for its own components.
